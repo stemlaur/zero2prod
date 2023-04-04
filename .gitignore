@@ -1,1 +1,6 @@
 /target
+/Cargo.lock
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/zero2prod.iml
